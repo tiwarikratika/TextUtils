@@ -1,7 +1,7 @@
 <h2>What is TextUtils?</h2>
 
 This is a simple django based project
-called "TextUtils" in which can analyse
+called "TextUtils" in which we can analyse
 our text.
 
 
